@@ -1,6 +1,6 @@
 # Relational Database
 ## Solutions of problems from the freeCodeCamp to obtain a certificate:
-[Celestial Bodies Database](https://github.com/ArtemKhadris/freeCodeCamp-Mean-Variance-Standard-Deviation-Calculator)
+[Celestial Bodies Database](https://github.com/ArtemKhadris/freeCodeCamp-Celestial-Bodies-Database)
 
 [World Cup Database](https://github.com/ArtemKhadris/freeCodeCamp-World-Cup-Database)
 
